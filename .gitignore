@@ -1,0 +1,5 @@
+.dub/
+dub.selections.json
+libwan27.a
+*.o
+wan27-test-*

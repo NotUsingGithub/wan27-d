@@ -1,0 +1,17 @@
+{
+  "name": "wan27",
+  "description": "Server-side D client for Wan27 (https://wan2-7.io/) AI image and video generation API and MCP workflow ecosystem.",
+  "homepage": "https://wan2-7.io/",
+  "authors": [
+    "Wan27 Team"
+  ],
+  "copyright": "Copyright © 2026, Wan27 Contributors",
+  "license": "MIT",
+  "targetType": "library",
+  "sourcePaths": [
+    "source"
+  ],
+  "importPaths": [
+    "source"
+  ]
+}
